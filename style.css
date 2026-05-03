@@ -1,0 +1,123 @@
+body {
+    background-color: #F1F5F9;
+    color: #334155;
+    font-family:"Arial sans-serif";
+    margin:0;
+    padding:0;
+}
+
+.container{
+    max-width:800px;
+    margin:60x auto;
+    background:white;
+    padding:40px;
+    border-radius:14px;
+    box-shadow:0 9px 20px rgba(0,0,0,0.08);
+    text-align:center;
+    
+
+
+}
+
+ nav a{
+    color;334155;
+    text-decoration:none;
+    margin:0 15px;
+    
+}
+
+nav a:hover{
+     color: #EAB8FF;
+ }
+nav a.active{
+    color: #007BA7;
+}
+
+
+
+h1{
+    color: #475569;
+    font-size:30px;
+    font-weight:600;
+    
+   
+}
+
+img{
+    width:100px;
+    border-radius:100;
+}
+
+a img:hover{
+    opacity: 0.8;
+}
+
+}
+
+p{
+    font-size:16px;
+    color:#647748B;
+    line-height:1.6;
+}
+.decor-image{
+    width:220px;
+    border-radius:12px;
+    margin-top:20px;
+    box-shadow:0 6px 16px rgbs(0,0,0,0.12);
+    }
+.bookRow{
+    display:grid;
+    grid-template-columns: repeat(5,1fr);
+    margin:20px auto;
+    max-width:800px;
+    gap:15px;
+
+}
+.bookSection{
+    width:100%;
+    height:180px;
+    object-fit:cover;
+    border-radius:6px;
+}
+.bookRow img{
+    transition: transform 0.3s ease;
+    
+}
+.bookRow img:hover{
+    transform: scale(1.05);
+
+}
+.pscyhSection{
+    display:flex;
+    align-items:center;
+    gap:30px;
+    max-width:800px;
+    margin:20px auto;
+}
+
+.psych-img{
+    width:180px;
+    height:auto;
+    border-radius:8px
+}
+
+.pscyhSection p {
+    flex:1;
+}
+#career-goals{
+    max-width:800px;
+    margin:50px auto;
+    font-family:"Arial sans-serif";
+    line-height:1.7;
+    text-align:center;
+    margin-bottom;30px
+}
+.section{
+    margin-bottom:30px;
+
+}
+
+.section h2{
+     margin-bottom:10px;
+     color:#333;
+}

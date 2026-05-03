@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  
+
+ 
+</head>
+<a href
+
+
+<body>
+    
+  <nav>
+      <a href="index.html"style="margin-left:100px;">Home</a>
+       <a href="page2.html"style="margin-left:100px;">About</a>
+        <a href="page3.html"style="margin-left:100px;">Goals</a>
+        <a href="https://codehs.com/uploads/05dab004d8396e97ed3635aacd8457fc"target="_blank"style="margin-left:100px;">Resume</a>
+</nav>
+
+
+<section id ="career-goals">
+    <h1>Career Goals</h1>
+    
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>
+            In the next few years.......
+        </p>
+    </div>
+    
+    <div class="section">
+        <h2> Short term goals</h2>
+        <p>
+           My short-term goal is to do well in my first semester at City Tech by staying organized, completing my assignments on time, and building strong study habits. I also aim to get an internship in my first or second year of college to start gaining experience in the tech field
+        </p>
+    </div>
+    
+    <div class="section">
+        <h2> Long term goals</h2>
+        
+        <p>
+            My long-term goal is to graduate from City Tech with a bachelor’s degree in data science while also minoring in business and a medical field. I want to build strong technical skills in data while understanding how business works and how data can improve healthcare. By combining these areas, I hope to create a career that is both successful and meaningful, where I can use data to make smart decisions and positively impact people’s lives.
+        </p>
+    </div>
+    
+     <section class="skills">
+        <h2>Skills</h2>
+       
+       <p><strong>Techinical:</strong>HTML,CSS,JavaScript(learning)</p>
+       <p><strong>Concepts:</strong>Problem Solving,Debugging,Computational Thinking</p>
+       <p><strong>Tools:</strong>VS Code</p>
+       
+
+        
+    </section>
+    
+    <div class="section">
+        <h2>What Motivates me</h2>
+        <p>
+            I am motivated by learning and the opportunity to expand my education, grow my skills, and build a strong foundation for my future career
+        </p>
+    </div>
+    
+</secttion>
